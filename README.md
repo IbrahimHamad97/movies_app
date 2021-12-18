@@ -1,4 +1,4 @@
-Movies Application:
+Movies Application **(Flutter)**:
 - Clone the repo into your device.
 - Get all the dependencies.
 - Run the app using android studio or VS code.
